@@ -14,3 +14,8 @@ COMMANDS: help | github | version | discord | exit | team
 KEYS | PROJECT MAKER | AND MORE!
 
 ```
+
+
+### What Happened??
+
+- I just dc
